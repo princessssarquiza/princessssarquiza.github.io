@@ -35,19 +35,21 @@
 ![bridge](https://user-images.githubusercontent.com/97146201/163017559-f2a1e580-f9a8-493c-8e00-1304365b7502.PNG)
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### ***Listen to “mirrorball” by Taylor Swift****
+<p-allign="center">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/KaM1bCuG4xo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+<p-allign="center">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mTx-11O-xGQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-You can use the [editor on GitHub](https://github.com/princessssarquiza/princessssarquiza.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### ***references***
 
 ```markdown
-Syntax highlighted code block
+[the lyrics](https://genius.com/Taylor-swift-mirrorball-lyrics)
+[the images](https://www.pinterest.ph/)
+[the review](https://www.nytimes.com/2020/07/26/arts/music/taylor-swift-folklore-review.html)
+[other images](https://www.canva.com/)
+[breakdown of the song](https://www.songmeaningsandfacts.com/mirrorball-by-taylor-swift/)
+
 
 # Header 1
 ## Header 2
