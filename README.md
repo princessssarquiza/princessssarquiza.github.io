@@ -41,16 +41,14 @@
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/mTx-11O-xGQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-### ***references***
+### ***others***
 
-```markdown
-Released on: 2020-07-24
+   Released on: 2020-07-24
 
-Producer, Studio  Personnel, Recording  Engineer, Associated  Performer, Percussion, Programming, Guitar, Keyboards, Background  Vocalist: Jack Antonoff
-Producer: Taylor Swift
-Studio  Personnel, Recording  Engineer: Laura Sisk
-Studio  Personnel, Mixer: Serban Ghenea
-Studio  Personnel, Mix  Engineer: John Hanes
-Studio  Personnel, Mastering  Engineer: Randy Merrill
-Composer  Lyricist: Taylor Swift
-Composer  Lyricist: Jack Antonoff
+   Producer, Studio  Personnel, Recording  Engineer, Associated  Performer, Percussion, Programming, Guitar, Keyboards, Background  Vocalist: Jack Antonoff
+   Producer: Taylor Swift
+   Studio  Personnel, Recording  Engineer: Laura Sisk
+   Studio  Personnel, Mix  Engineer: John Hanes
+   Studio  Personnel, Mastering  Engineer: Randy Merrill
+   Composer  Lyricist: Taylor Swift
+   Composer  Lyricist: Jack Antonoff
