@@ -34,7 +34,7 @@
 
 ![bridge](https://user-images.githubusercontent.com/97146201/163017559-f2a1e580-f9a8-493c-8e00-1304365b7502.PNG)
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------
-### ***Listen to “mirrorball” by Taylor Swift****
+### ***Listen to “mirrorball” by Taylor Swift***
 <p-allign="center">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/KaM1bCuG4xo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -44,34 +44,13 @@
 ### ***references***
 
 ```markdown
-[the lyrics](https://genius.com/Taylor-swift-mirrorball-lyrics)
-[the images](https://www.pinterest.ph/)
-[the review](https://www.nytimes.com/2020/07/26/arts/music/taylor-swift-folklore-review.html)
-[other images](https://www.canva.com/)
-[breakdown of the song](https://www.songmeaningsandfacts.com/mirrorball-by-taylor-swift/)
+Released on: 2020-07-24
 
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/princessssarquiza/princessssarquiza.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Producer, Studio  Personnel, Recording  Engineer, Associated  Performer, Percussion, Programming, Guitar, Keyboards, Background  Vocalist: Jack Antonoff
+Producer: Taylor Swift
+Studio  Personnel, Recording  Engineer: Laura Sisk
+Studio  Personnel, Mixer: Serban Ghenea
+Studio  Personnel, Mix  Engineer: John Hanes
+Studio  Personnel, Mastering  Engineer: Randy Merrill
+Composer  Lyricist: Taylor Swift
+Composer  Lyricist: Jack Antonoff
