@@ -1,5 +1,15 @@
-## Welcome to GitHub Pages
-Princess was here
+# Song Analysis : *mirroball*
+## *folklore* **by** *taylor swift*
+
+### **the lyrics**
+![1bd0d828f21b1736febf7158256f2b70](https://user-images.githubusercontent.com/97146201/163007433-8d3cad6c-74ce-4e79-a68e-548a11f30b7f.jpg)
+
+## *folklore | mirrorball*
+>*"Mirrorball"* is the **sixth track** on Taylor Swift's 2020 album *Folklore*. The song discusses how Taylor Swift has many facades that the world sees and that she wants the world to see. However, as lovely as they are to look at, they are indeed very fragile.
+
+# ***What is a mirroball?***
+>A'mirrorball,' like a disco ball, reflects light thrown at it, creating beautiful rays and patterns of light. The disco ball has thousands of tiny transparent material that emit a couple thousand beams of light. These objects, however, are really quite fragile, despite the fact that they bring a lot of joy to everyone around them.
+
 
 You can use the [editor on GitHub](https://github.com/princessssarquiza/princessssarquiza.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
